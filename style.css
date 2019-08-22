@@ -1,0 +1,59 @@
+.imgcover{
+	background-size: cover;
+	background:url(/home/cgi/proj/assignment 2/images/pexels-photo-270837.jpeg) center center no-repeat;
+}
+.about-text h1{
+	color:red;
+	
+	text-align: center;
+	font-size: 10px;
+
+
+}
+
+.carousel-item img{
+	width:400px;
+
+}
+.vr{
+	display: :flex;
+	justify-content:right ;
+}
+.fff{
+	color:white;
+	text-align: center;
+	margin:auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgba(0,0,0,1);
+
+}
+ul{
+	list-style: none;
+color:orange;}
+
+.nn{ margin:auto;
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	color:white;
+	background-color: rgba(0,0,1,1);
+
+}
+
+/*<div class="modal " table-index="-1" role="dialog" id="v">
+            <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <P>hello!</P>
+                </div>
+                <div class="modal-body">
+                    <p>Thanks for Enrolling</p>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-success" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
